@@ -1,0 +1,11 @@
+SLA100 - Room: Loft 206, Time: 11 AM, Facilitator: Glen
+SLA100 - Room: Roman 201, Time: 10 AM, Facilitator: Richards
+SLA191 - Room: Frank 119, Time: 3 PM, Facilitator: Glen
+SLA191 - Room: Beach 201, Time: 12 PM, Facilitator: Zeldin
+SLA201 - Room: Frank 119, Time: 10 AM, Facilitator: Uther
+SLA291 - Room: Logos 325, Time: 11 AM, Facilitator: Zeldin
+SLA303 - Room: Logos 325, Time: 12 PM, Facilitator: Glen
+SLA304 - Room: Roman 216, Time: 3 PM, Facilitator: Uther
+SLA394 - Room: Roman 216, Time: 12 PM, Facilitator: Banks
+SLA449 - Room: Beach 301, Time: 3 PM, Facilitator: Richards
+SLA451 - Room: Beach 301, Time: 1 PM, Facilitator: Singer
